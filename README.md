@@ -1,12 +1,12 @@
 
 # svelte starter kit
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/goodstuph/svelte-starter-kit.
+This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/Goodstuph/svelte-starter-kit.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit goodstuph/svelte-starter-kit svelte-app
+npx degit Goodstuph/svelte-starter-kit svelte-app
 cd svelte-app
 ```
 
