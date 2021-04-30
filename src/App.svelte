@@ -6,6 +6,11 @@
   export let url = "";
 </script>
 
+<svelte:head>
+  <!-- Main stuff goes in index.html, if it needs to be changed, do that here. -->
+  <title>Page Title</title>
+</svelte:head>
+
 <Router {url}>
   <Route path="/" component={Home} />
   <Route path="/other" component={Other} />
